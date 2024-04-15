@@ -1,0 +1,36 @@
+	Comments 
+		>is part of program,that ignore by compiler.
+		>is part of program,con't not execute by compiler.
+	why we used Comments:
+		> To give extra information to program  or code.
+	Type of Comments:
+			1)Single line Comment.
+					// Comment 
+			2)Mulit line comment.
+					/* 
+					code.
+					code.
+					
+					
+					*/
+			
+	Type casting 
+		>convert one data type value ot another data  during 
+		executtion.
+			1)Implicit Type Casting
+				> Converting small data type value to larg data
+					type value is Implicit Type Casting.
+				>Implicit Type Casting don atumaticaly by compiler.
+			2)Explicit Type Casting 
+				> Converting large data type value to small data
+					type value is Implicit Type Casting.
+				>don by progammer
+	Operators
+		> Operator symbole that are used for specific task or 
+			operation on vairable value.
+				1)Arithmetic operators {+,-,*,/} 
+				2)Assignment operators	{=}
+				3)Logical operators{ |or|, && AND,! Not}
+					
+									
+
